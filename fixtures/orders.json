@@ -1,0 +1,18 @@
+[
+    {
+        "model": "shop.OrderItem",
+        "pk": 1,
+        "fields": {
+            "product": 1,
+            "order": 1,
+            "quantity": 1
+        }
+    },
+    {
+        "model": "shop.Order",
+        "pk": 1,
+        "fields": {
+            "order_items": [1]
+        }
+    }
+]

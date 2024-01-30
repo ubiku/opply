@@ -1,0 +1,9 @@
+db.sqlite3
+.vscode
+venv
+apis/__pycache__
+apis/migrations
+apis/shop/__pycache__
+apis/shop/migrations
+apis/test/__pycache__
+apis/test/migrations

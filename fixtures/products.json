@@ -1,0 +1,47 @@
+[
+    {
+        "model": "shop.Product",
+        "pk": 1,
+        "fields": {
+            "name": "Nice product",
+            "price": 25,
+            "quantity": 5
+        }
+    },
+    {
+        "model": "shop.Product",
+        "pk": 2,
+        "fields": {
+            "name": "Bad product",
+            "price": 100,
+            "quantity": 55
+        }
+    },
+    {
+        "model": "shop.Product",
+        "pk": 3,
+        "fields": {
+            "name": "DD product",
+            "price": 3,
+            "quantity": 22
+        }
+    },
+    {
+        "model": "shop.Product",
+        "pk": 4,
+        "fields": {
+            "name": "X product",
+            "price": 21,
+            "quantity": 3
+        }
+    },
+    {
+        "model": "shop.Product",
+        "pk": 5,
+        "fields": {
+            "name": "A product",
+            "price": 53,
+            "quantity": 2
+        }
+    }
+]
